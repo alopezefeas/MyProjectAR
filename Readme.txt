@@ -1,0 +1,1 @@
+This is a trainning test in order to be familiar with Git and GitHub.
